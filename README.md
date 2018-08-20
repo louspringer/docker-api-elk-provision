@@ -1,2 +1,2 @@
-# docker-api-elk-provision
+# Elk Stack with Docker Python API
 ELK Stack Provisioning wit Docker API
