@@ -106,5 +106,17 @@ venv.bak/
 # elastic search data
 elasticsearch/esdata1
 
+# logstash data
+logstash/data
+
+# kibana data
+
+# filebeat data
+filebeat/data
+filebeat/inputlogs
+
+
+
+
 # macos cruft 
 .DS_Store
